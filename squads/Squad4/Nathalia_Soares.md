@@ -1,3 +1,7 @@
+# Apresentação
+
+### Meu nome é Nathália, sou Pedagoga e estudante de programação.
+
 ## Informações
 
 **• Objetivo:** Desenvolver a interface visual do sistema com HTML, CSS e JavaScript
