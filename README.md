@@ -64,7 +64,6 @@ Criar um novo branch para sua contribuição:
 
 Escolha um nome descritivo para sua branch, como minha-contribuicao.
 
-
 ~~~
 git checkout -b minha-contribuicao
 ~~~
